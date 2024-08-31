@@ -8,3 +8,6 @@
 \
 **University of Hamburg**\
 ![University of Hamburg](https://keystoneacademic-res.cloudinary.com/image/upload/f_auto/q_auto/g_auto/c_fill/w_1280/element/23/238698_170315_ESAHauptgebaude_24M-141.jpg)
+\
+**University of Arden**\
+  ![](https://studynet-group.com/uploads/school/cover/173/KB1315-9-reasons-study-berlin-image1.jpg)
